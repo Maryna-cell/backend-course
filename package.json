@@ -1,0 +1,23 @@
+{
+    "name": "backend-course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^17.2.3",
+        "express": "^4.19.2",
+        "express-fileupload": "^1.5.2",
+        "mongoose": "^8.19.1",
+        "uuid": "^13.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
